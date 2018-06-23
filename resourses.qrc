@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Resourses/Body.png</file>
+        <file>Resourses/GameOver.png</file>
+        <file>Resourses/Background.png</file>
+        <file>Resourses/Food.png</file>
+        <file>Resourses/DownHead.png</file>
+        <file>Resourses/LeftHead.png</file>
+        <file>Resourses/RightHead.png</file>
+        <file>Resourses/UpHead.png</file>
+    </qresource>
+</RCC>
